@@ -2,7 +2,7 @@
 
 ## Description
 
-This project implements a **doubly linked list** data structure in C++. The `list` class allows for adding, removing, and searching elements within the list, as well as converting its contents to a string format. The project is written in C++ standard and can be used as an example or a base for further development.
+This project implements a **doubly linked list** data structure in C++. The `list` class allows for adding, removing, and searching elements within the list, as well as converting its contents to a string format. The project is written in C++ standard and can be used as an example or a base for further development. The idea of this project comes from Algorithms Course at my University where we implement various structures from scratch with C++ language. It helps to understand and visualise better important algorithmical concepts.
 
 ## Table of Contents
 
